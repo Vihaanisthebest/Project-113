@@ -1,0 +1,19 @@
+body
+{
+    background-image: linear-gradient(to bottom right, Red, rgba(255, 166, 0, 0.959), rgba(255, 255, 0, 0.922), rgb(30, 255, 0), rgb(0, 162, 255), indigo, violet);
+}
+
+h3
+{
+  font-size: 35px !important;
+}
+
+#b1
+{
+    font-size: 20px;
+}
+
+canvas
+{
+  border:1px solid black;
+}
